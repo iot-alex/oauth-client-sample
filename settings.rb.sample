@@ -1,0 +1,4 @@
+module Settings
+  CLIENT_ID     = ""
+  CLIENT_SECRET = ""
+end
